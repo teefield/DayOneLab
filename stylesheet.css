@@ -1,0 +1,83 @@
+
+.nav {
+	position: fixed;
+	width: 1000px;
+}
+
+.header {
+	background-color: #ADD8E6;
+	height: 50px;
+	text-align: center;
+	margin-top: -5px;
+}
+
+.header li {
+	display: inline-block;
+	padding-left: 25px;
+	padding-right: 15px;
+	color: white;
+	margin-top: 14px;
+	list-style: none;
+}
+
+.name {
+	display: inline-block;
+	margin-top: 40px;
+	text-align: center;
+}
+
+.resume h1 {
+	text-align: center;
+	border-top: 3px solid #D3D3D3;
+	border-bottom: 2px solid #ADD8E6;
+}
+
+.aboutMeLeft {
+	width: 450;
+	float: left;
+	clear: left;
+	padding-left: 35px;
+}
+
+.aboutMeRight {
+	width: 450;
+	float: right;
+	clear: right;
+	padding-right: 45px;
+}
+
+.skillsLeft {
+	width: 450;
+	float: left;
+	clear: left;
+	padding-left: 35px;
+}
+
+.skillsRight {
+	width: 450;
+	float: right;
+	clear: right;
+	padding-right: 45px;
+}
+
+.resume h5 {
+	margin-left: 15px;
+	margin-bottom: -10px;
+}
+
+.resume h6 {
+	margin-left: 20px;
+	margin-top: 15px;
+	margin-bottom: -10px;
+	color: #ADD8E6;
+	font-style: italic;
+}
+
+p {
+	margin-left: 35px;
+	margin-right: 45px;
+}
+
+.name {
+	clear: both;
+}
