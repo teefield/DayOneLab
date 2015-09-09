@@ -46,32 +46,43 @@
 	border-bottom: 2px solid #ADD8E6;
 }
 
+.about-block {
+	display: inline-block;
+  margin: 0 100px 0;
+  text-align: left;
+  padding: 20px;
+}
+
 .aboutMeLeft {
-	width: 450;
+	width: 50%;
 	float: left;
 	clear: left;
-	padding-left: 35px;
 }
 
 .aboutMeRight {
-	width: 450;
+	width: 50%;
 	float: right;
 	clear: right;
-	padding-right: 45px;
+}
+
+.skills-block {
+	display: inline;
+  	text-align: left;
+  	padding: 20px;
 }
 
 .skillsLeft {
-	width: 450;
+	width: 50%;
 	float: left;
 	clear: left;
-	padding-left: 35px;
+	padding-left: 120px;
 }
 
 .skillsRight {
-	width: 450;
+	width: 50&;
 	float: right;
 	clear: right;
-	padding-right: 45px;
+	margin-right: 100px;
 }
 
 .resume h5 {
